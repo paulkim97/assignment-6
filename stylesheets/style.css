@@ -1,0 +1,34 @@
+div{
+	background-color: #706545;
+	border: solid 1px blue;
+	height: 100px;
+	width: 40%;
+	margin: 25px;
+}
+
+.center{
+	margin: auto;
+}
+
+.midleft{
+	float:left;
+}
+
+.midright{
+	float:left
+}
+
+.botleft{
+	float:left;
+	position: relative;
+}
+
+.smallbox{
+	background-color: #758317;
+	position: absolute; 
+	width: 5%;
+	height: 20%;
+	right:0;
+	bottom: 0;
+	margin: 0px;
+}
